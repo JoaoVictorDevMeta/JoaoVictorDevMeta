@@ -1,12 +1,8 @@
-<img align="center" style="width: 100%; padding-bottom:30px" src="githubback.png" />
-
-<p align="center" style="font-size: 20px;">"I learn code to solve problems"<p/>
+<p align="center" style="font-size: 20px;">"Through code, I transform challenges into opportunities."<p/>
 
 <div align="center">
 
 ### Bem vindo ao meu perfil 😅
-
-[![Jvezim GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorDevMeta&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
