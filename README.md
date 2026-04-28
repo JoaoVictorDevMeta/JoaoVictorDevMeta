@@ -8,7 +8,7 @@
 
 ## Meu portifólio
 
-[https://portifoliogallery.web.app](https://jotadev-ashen.vercel.app/)
+[jotadev-ashen](https://jotadev-ashen.vercel.app/)
 
 ## Minhas Habilidades e Tecnologias
 
